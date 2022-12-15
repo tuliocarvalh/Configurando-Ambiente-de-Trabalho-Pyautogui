@@ -1,0 +1,12 @@
+#############################################################################################
+
+1- Aperte a tecla win e digite 'agendador de tarefas';
+2- Clique em 'criar tarefa' e digite o nome e descrição da tarefa;
+3- Em disparadores, definas os dias e horários, no caso do exemplo, 8h e 22h;
+4- Na opção de ações, procure o path do seu navegador e o adicione juntamente com o nome do arquivo para que a tarefa seja executada;
+5- Aperte ok e seu computador executará sempre nos horários definidos. 
+
+Obs: Altere a variável hora e o passo 3 para o horário em que executará o teste para entender o funcionamento e testar.
+Obs2: Este código e tutorial é exclusivo para SO Windows.
+
+Boa sorte e bom código. Determine as suas funções e agendamentos como preferir. 
