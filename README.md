@@ -1,0 +1,1 @@
+# Configurando-Ambiente-de-Trabalho-Pyautogui
